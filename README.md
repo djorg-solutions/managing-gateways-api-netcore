@@ -1,3 +1,5 @@
-- open cmd in root folder  
-- dotnet build //nuget restore
-- dotnet run  //run app
+- restore backup.bak (sql folder)
+- configure 'connectionString' (appsettings.json, ManagingGateways folder)
+- open cmd (ManagingGateways folder)
+- nuget restore (run command: dotnet build)
+- run app (run command: dotnet run)
